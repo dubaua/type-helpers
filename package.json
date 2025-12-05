@@ -1,0 +1,20 @@
+{
+  "name": "@dubaua/type-helpers",
+  "version": "1.0.0",
+  "description": "tiny type helpers",
+  "type": "module",
+  "exports": "./src/index.ts",
+  "types": "./src/index.ts",
+  "files": [
+    "src"
+  ],
+  "keywords": [
+    "typescript"
+  ],
+  "author": "dubaua",
+  "email": "dubaua@gmail.com",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.9.3"
+  }
+}
